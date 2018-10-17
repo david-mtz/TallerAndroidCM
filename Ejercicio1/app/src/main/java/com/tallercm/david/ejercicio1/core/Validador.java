@@ -1,7 +1,5 @@
 package com.tallercm.david.ejercicio1.core;
 
-import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
@@ -11,9 +9,7 @@ import android.widget.RadioGroup;
 import java.util.Arrays;
 import java.util.List;
 
-public class Validador extends AppCompatActivity {
-
-    private static Context contexto;
+public class Validador  {
 
     public static boolean campoNoVacio(ViewGroup layout, String error, String[] excluir) {
 
