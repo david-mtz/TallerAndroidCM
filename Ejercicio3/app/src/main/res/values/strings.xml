@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">El Ahorcado</string>
+    <string name="nombre_juego">El Ahorcado</string>
+    <string name="btnIniciarJuego">¡ Iniciar juego !</string>
+    <string name="error">¡ Te has equivocado !</string>
+    <string name="ganador">¡ Has acertado en adivinar la palabra !</string>
+    <string name="perdedor">¡ Has perdido, vuelve a intentarlo !</string>
+    <string name="btnSelected">Ya fue seleccionada la letra.</string>
+
+</resources>
